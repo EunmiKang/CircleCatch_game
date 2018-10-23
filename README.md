@@ -3,6 +3,6 @@
 ### 개발 언어
 * Python
 ### 개발 환경
-* Ubuntu
+* Ubuntu / vi editor
 ### 개발 날짜
 * 2017.01
